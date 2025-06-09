@@ -1,4 +1,3 @@
-// File: handlers/dessert.go
 package handlers
 
 import (
